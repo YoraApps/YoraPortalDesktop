@@ -13,3 +13,17 @@ E:\Yora\YoraProtal\obj\Debug\YoraProtal.Master.UC_Employee.resources
 E:\Yora\YoraProtal\obj\Debug\YoraProtal.Master.UC_Student.resources
 E:\Yora\YoraProtal\obj\Debug\YoraProtal.Master.UC_Client.resources
 E:\Yora\YoraProtal\obj\Debug\YoraProtal.Transaction.UC_Attendance.resources
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\bin\Debug\YoraProtal.exe.config
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\bin\Debug\YoraProtal.exe
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\bin\Debug\YoraProtal.pdb
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.Dashboard.resources
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.Form1.resources
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.Master.UC_Client.resources
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.Master.UC_Employee.resources
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.Master.UC_Student.resources
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.Properties.Resources.resources
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.Transaction.UC_Attendance.resources
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.csproj.GenerateResource.Cache
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.csproj.CoreCompileInputs.cache
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.exe
+D:\Yora\GitCode\YoraPortalDesktop\YoraProtal\obj\Debug\YoraProtal.pdb
