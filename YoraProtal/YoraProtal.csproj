@@ -54,6 +54,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Master\UC_Books.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Master\UC_Books.Designer.cs">
+      <DependentUpon>UC_Books.cs</DependentUpon>
+    </Compile>
     <Compile Include="Master\UC_Client.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -85,6 +91,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\UC_Books.resx">
+      <DependentUpon>UC_Books.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Master\UC_Client.resx">
       <DependentUpon>UC_Client.cs</DependentUpon>
