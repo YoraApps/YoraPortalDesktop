@@ -1,0 +1,15 @@
+E:\Yora\YoraProtal\bin\Debug\YoraProtal.exe.config
+E:\Yora\YoraProtal\bin\Debug\YoraProtal.exe
+E:\Yora\YoraProtal\bin\Debug\YoraProtal.pdb
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.csprojResolveAssemblyReference.cache
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.Dashboard.resources
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.Form1.resources
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.Properties.Resources.resources
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.csproj.GenerateResource.Cache
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.csproj.CoreCompileInputs.cache
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.exe
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.pdb
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.Master.UC_Employee.resources
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.Master.UC_Student.resources
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.Master.UC_Client.resources
+E:\Yora\YoraProtal\obj\Debug\YoraProtal.Transaction.UC_Attendance.resources
